@@ -1,8 +1,13 @@
 {
   "type": "module",
   "scripts": {
-    "dev": "parcel *.html"
-      },
+    "dev": "parcel *.html",
+    "build": "parcel build *.html --public-url /iphone-trainy/"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1",
+    "seamless-scroll-polyfill": "^2.1.6"
+  },
   "dependencies": {
     "parcel": "^2.2.1",
     "seamless-scroll-polyfill": "^2.1.6"
