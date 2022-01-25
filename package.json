@@ -11,5 +11,19 @@
   "dependencies": {
     "parcel": "^2.2.1",
     "seamless-scroll-polyfill": "^2.1.6"
-  }
+  },
+  "name": "iphone-trainy",
+  "version": "1.0.0",
+  "main": "./script/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadiaEismont/iphone-trainy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadiaEismont/iphone-trainy/issues"
+  },
+  "homepage": "https://github.com/NadiaEismont/iphone-trainy#readme",
+  "description": ""
 }
